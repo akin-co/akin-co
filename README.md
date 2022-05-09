@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rpa and programming languages.
 - 🌱 I’m currently learning Uipath and other Rpa tools with codding language to impove myself in Rpa.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me; akin.co@hotmail.com
 
 <!---
 akin-co/akin-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
