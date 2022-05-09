@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akin-co
 - 👀 I’m interested in Rpa and programming languages.
-- 🌱 I’m currently learning Uipath to impove myself in Rpa.
+- 🌱 I’m currently learning Uipath and other Rpa tools with codding language to impove myself in Rpa.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
